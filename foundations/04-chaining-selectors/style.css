@@ -1,8 +1,10 @@
-.girl{
+.avatar proportioned
+{
   width: 300px;
 }
 
-.boy{
+.avatar distorted
+{
   width: 300px;
 }
     
